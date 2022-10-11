@@ -27,7 +27,7 @@ $ mv ${GOPATH}/bin/terraform-provider-dmsnitch ~/.terraform.d/plugins
 
 ## Usage
 
-First create an API token in the Dead Man's Snitch dashboard. **Note**: Use of the DMS API requires [a paid plan](https://deadmanssnitch.com/plans).
+First create an API token in the Dead Man's Snitch dashboard.
 
 ![](http://img.plukevdh.me/0M2i1K2n2T1a/Image%2525202018-08-07%252520at%2525203.45.04%252520PM.png)
 
